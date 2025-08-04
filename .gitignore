@@ -1,0 +1,15 @@
+# Arquivos Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Configs de editor
+.vscode/
+.idea/
+
+# Arquivos temporários ou de backup
+*.log
+*.tmp
+*.bak
+.DS_Store
+
